@@ -1,1 +1,1 @@
-# python_bot_ISP
+# Python bot via aiogram
